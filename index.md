@@ -6,4 +6,8 @@
 
 [5.1-5.2 Notes](https://derekbokelman.github.io/IndividualPage/5.1-5.2%20notes)
 
+[5.3-5.4 Notes](https://derekbokelman.github.io/IndividualPage/5.3-5.4%20notes)
+
 [Plans, Teams, Jobs review ticket](https://github.com/DerekBokelman/IndividualPage/issues/1)
+
+[List and Loops Review ticket](https://github.com/DerekBokelman/IndividualPage/issues/2)
