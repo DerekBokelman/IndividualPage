@@ -1,14 +1,14 @@
 ## Derek Individual Page
 
-| Week | Review Ticket |
-| --- | --- |
+| Week | Review Ticket
+| :--- | :---: |
 | `Week 0` | [Plans, Teams, Jobs review ticket](https://github.com/DerekBokelman/IndividualPage/issues/1) |
 | `Week 1` | [List and Loops Review ticket](https://github.com/DerekBokelman/IndividualPage/issues/2) |
 | `Week 2` |  |
 
 
 | Week | Notes |
-| --- | --- |
+| :--- | :---: |
 | `Week 0` | [5.1-5.2 Notes](https://derekbokelman.github.io/IndividualPage/5.1-5.2%20notes) |
 | `Week 1` | [5.3-5.4 Notes](https://derekbokelman.github.io/IndividualPage/5.3-5.4%20notes) |
 | `Week 2` |  |
