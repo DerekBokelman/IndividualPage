@@ -11,7 +11,7 @@
 | :--- | :---: |
 | `Week 0` | [5.1-5.2 Notes](https://derekbokelman.github.io/IndividualPage/5.1-5.2%20notes) |
 | `Week 1` | [5.3-5.4 Notes](https://derekbokelman.github.io/IndividualPage/5.3-5.4%20notes) |
-| `Week 2` | [5.5-5.6 Notes](https://derekbokelman.github.io/IndividualPage/5.5-5.6%20notes) |
+| `Week 2` | [5.5-5.6 Notes](https://derekbokelman.github.io/IndividualPage/5.5-5.6%20Notes) |
 
 ### Previous Work and Test Prep
 
